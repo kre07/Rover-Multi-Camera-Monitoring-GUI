@@ -256,19 +256,6 @@ Separating the camera sources from the GUI through independent UDP streams keeps
 - Live stream telemetry
 - Robotics monitoring software
 
-## Possible Improvements
-
-- Launch camera sender pipelines directly from the GUI
-- Save device mappings in a configuration file
-- Add automatic stream reconnection
-- Add recording and screenshots
-- Add full-screen camera viewing
-- Make IP addresses and ports configurable
-- Extend localhost testing to networked rover streaming
-- Add ROS / ROS 2 integration
-- Add camera health alerts
-- Add automatic stream discovery
-
 ## Author
 
 **Kritagya Sharma**
